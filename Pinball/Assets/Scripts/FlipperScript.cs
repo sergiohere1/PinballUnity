@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿///////////////////////////////////////////
+// Práctica: Pinball
+// Alumno/a: Sergio García-Consuegra Berná
+// Curso: 2017/2018
+// Fichero: FlipperScript.cs
+///////////////////////////////////////////
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -23,7 +29,9 @@ public class FlipperScript : MonoBehaviour {
 	/// Nombre de la entrada
 	/// </summary>
 	public string inputName;
-
+	/// <summary>
+	/// Agrupador de dos rigid bodies para que parezca que están unidos por una bisagra.
+	/// </summary>
 	HingeJoint hingeJoint;
 
 	// Use this for initialization

@@ -1,20 +1,37 @@
-﻿using System.Collections;
+﻿///////////////////////////////////////////
+// Práctica: Pinball
+// Alumno/a: Sergio García-Consuegra Berná
+// Curso: 2017/2018
+// Fichero: PlungerScript.cs
+///////////////////////////////////////////
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+/// <summary>
+/// Método encargado de comprobar si hay una bola en el lanzador del principio, y en caso afirmativo, la lanzará con
+/// una fuerza relativa a cuánto mantenga el usuario pulsada la barra espaciadora.
+/// </summary>
 public class PlungerScript : MonoBehaviour {
 	/// <summary>
-	/// Fuerza máxima que se le dará al slider
+	/// Fuerza máxima que se le dará al slider.
 	/// </summary>
 	public float maxPower = 50f;
 	/// <summary>
-	/// El power Slider asignado
+	/// El power Slider asignado.
 	/// </summary>
 	public Slider powerSlider;
-
+	/// <summary>
+	/// Fuerza por la que se multiplicará el lanzamiento de la bola.
+	/// </summary>
 	float power;
+	/// <summary>
+	/// ArrayList de bolas.
+	/// </summary>
 	List<Rigidbody> ballList;
+	/// <summary>
+	/// Booleano para comprobar si la bola está lista o no.
+	/// </summary>
 	bool ballReady;
 
 	// Use this for initialization

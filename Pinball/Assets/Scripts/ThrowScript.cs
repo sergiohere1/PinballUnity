@@ -1,7 +1,16 @@
-﻿using System.Collections;
+﻿///////////////////////////////////////////
+// Práctica: Pinball
+// Alumno/a: Sergio García-Consuegra Berná
+// Curso: 2017/2018
+// Fichero: ThrowScript.cs
+///////////////////////////////////////////
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/// <summary>
+/// Script encargado de funcionar como impulsador, es decir, una vez la bola contacta con el trigger, le aplica
+/// una fuerza que le impulsa hacia adelante (hacia arriba si nos fijamos desde la perspectiva de la cámara).
+/// </summary>
 public class ThrowScript : MonoBehaviour
 {
 	public int throwPower = 0;
