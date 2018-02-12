@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc723e57-5961-4938-b1a8-2b02331a2ef6" name="Default" comment="Pantalla de Inicio y final">
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Assets/Animations.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Assets/Animations/Cube.controller" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Assets/Animations/Cube.controller.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Assets/Animations/CubeAnimation.anim" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Assets/Animations/CubeAnimation.anim.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Assets/giro.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Assets/giro.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/AnnotationManager" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/AssetImportState" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/BuildPlayer.prefs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/BuildSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/CurrentLayout.dwlt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/EditorUserBuildSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/EditorUserSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/GridBrush/UnityEditor.GridBrush.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/InspectorExpandedItems.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/LastSceneManagerSetup.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/LibraryFormatVersion.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/MonoManager.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ProjectSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ScriptAssemblies/BuiltinAssemblies.stamp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ScriptMapper" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/1/13edb108859dbc036c99afe589a8fa6a.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/1/18accdbc520e5b74d0ad2c1037362c58.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/1/1d65b29660fcdc00a84ee3e2e141f2bb.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/2/28c4cf15cd1fc675fe3594e090f92c88.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/3/33a726131e756e86b3b891b54018a2d8.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/3/3f3619b61b273f80ad5ec0111682c7f0.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/4/40838fcd784828905bb0a03ad6ab21ef.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/4/40bafcd6bc0e79d89bb6754e44ad73de.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/4/4fc91df2a1602a156ee470de8b4f0038.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/6/67a5991e23cdd7004bf489abfb41fdb9.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/8/812157568456e4d747d454d4132c66b4.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/9/922b762b84d673b1b28c191121b45b61.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/9/98ff7e5bfe8e1e59eb7a040b0120aae0.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/c/c34d8b1c29bedd3dbbce7683a8bc56b8.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/d/d1c3c29b12ae15d8e5994a05c7465e52.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/d/d70fd8a88287f45b5b4732e17b46b0a5.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/d/dc33dec5b362740d5d76a582a8d475e8.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/e/e8e5d48f02545d1c556c48dd93c9b84a.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/e/ea6e59e57af3c11ee4e3e21e40f8ab7c.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/f/f7fe96a02ce065cf00d77f50d227a229.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/f/fc685b3e864f4d128c13f2d91f4d9350.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/ShaderCache/f/ffc386ad42bcfecefadc02aa6c8aa370.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/SpriteAtlasDatabase.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/TilemapEditorUserSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/assetDatabase3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/expandedItems" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000001000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000001000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000002000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000002000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000003000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000003000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000004000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000004000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000004100000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000004100000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000005000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000005000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000005100000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000005100000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000006000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000006000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000006100000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000006100000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000007000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000007000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000007100000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000007100000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000008000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000008000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000009000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/00000000000000009000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/0000000000000000a000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/0000000000000000a000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/0000000000000000a100000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/0000000000000000a100000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/0000000000000000b000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/0000000000000000b000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/0000000000000000c000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/0000000000000000c000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/0000000000000000e100000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/00/0000000000000000e100000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/09/094a4a3c14949514fb2271c7d14204ba" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/09/094a4a3c14949514fb2271c7d14204ba.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/0d/0d3bb855445e36e479c85976fc88383a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/0d/0d3bb855445e36e479c85976fc88383a.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/10/10bf81265ad87424d946598c575f45a0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/10/10bf81265ad87424d946598c575f45a0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/13/1322fd896bbb15bb6e335591b766ae62" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/13/1322fd896bbb15bb6e335591b766ae62.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/15/15be9c691b85a41a39c18bee2f87e21b" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/15/15be9c691b85a41a39c18bee2f87e21b.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/22/220224b43fc464c28bc0e8de8f54a432" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/22/220224b43fc464c28bc0e8de8f54a432.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/26/2682a692a2be7e14e901a738c7806da0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/26/2682a692a2be7e14e901a738c7806da0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/27/27cf104385e4e1d40909591bb931fc6d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/27/27cf104385e4e1d40909591bb931fc6d.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/2e/2eb2d0388ed974b3cba47458803bd275" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/2e/2eb2d0388ed974b3cba47458803bd275.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/30/30aa2886e2b748d48fbe4b155c65025f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/30/30aa2886e2b748d48fbe4b155c65025f.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/32/32188fd89022c154c81befa2f0e00be0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/32/32188fd89022c154c81befa2f0e00be0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/40/405b9b51bb344a128608d968297df79c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/40/405b9b51bb344a128608d968297df79c.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/41/4113173d5e95493ab8765d7b08371de4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/41/4113173d5e95493ab8765d7b08371de4.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/45/453f100e6bdae4dfd9e655927819dc85" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/45/453f100e6bdae4dfd9e655927819dc85.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/49/49f5766d0d4954f44b85d4bbd7131677" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/49/49f5766d0d4954f44b85d4bbd7131677.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/4c/4c6fe94acbb24417c988bab18cbd5209" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/4c/4c6fe94acbb24417c988bab18cbd5209.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/4f/4f234578336894dc081edf696f2ff5f2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/4f/4f234578336894dc081edf696f2ff5f2.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/51/510d1d319d2754ea4a47c6dd8c421ea0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/51/510d1d319d2754ea4a47c6dd8c421ea0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/51/517af1b5b81b93b43b9745d58f017562" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/51/517af1b5b81b93b43b9745d58f017562.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/65/6597c6ea86d36477081342001145d8d9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/65/6597c6ea86d36477081342001145d8d9.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/65/65d58d50c3db54f979b1ffae3777d74b" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/65/65d58d50c3db54f979b1ffae3777d74b.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/69/6981461fe431401459211818212a29cf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/69/6981461fe431401459211818212a29cf.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/75/75799de484ac4f4cadc268d2cbea830a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/75/75799de484ac4f4cadc268d2cbea830a.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/76/7668179ede524d6396c8b7d84461ea29" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/7c/7c095010d717b94479d678e1a58f97ec" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/7c/7c095010d717b94479d678e1a58f97ec.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/7c/7c3a5d6e39b874f468b2691537168513" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/7c/7c3a5d6e39b874f468b2691537168513.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/84/844f815391db42d49455cbf1a7bfc434" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/84/844f815391db42d49455cbf1a7bfc434.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/84/84ca94c19f25ae14d83aa41bb3654390" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/84/84ca94c19f25ae14d83aa41bb3654390.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/86/86c008322e7c647149878156c5b81940" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/86/86c008322e7c647149878156c5b81940.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/86/86c18994495874297b469aaa57ef9b44" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/86/86c18994495874297b469aaa57ef9b44.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/90/9078b7128e594410d9b89e5b24cffd01" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/90/9078b7128e594410d9b89e5b24cffd01.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/99/99ddb49592ff84811804420a1910cb89" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/99/99ddb49592ff84811804420a1910cb89.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/a3/a342381d77833427fa10621e38fbae10" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/a3/a342381d77833427fa10621e38fbae10.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/a3/a37e18887fa954edf92bc36bc353b879" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/a3/a37e18887fa954edf92bc36bc353b879.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/ad/ad14ff652373d5f409a6b1b3e5ec9e21" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/ad/ad14ff652373d5f409a6b1b3e5ec9e21.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/b3/b32abd1c9d73a4cce8389f084ac12b11" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/b3/b32abd1c9d73a4cce8389f084ac12b11.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/b5/b5da970776034f77a070d99423d68791" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/b5/b5da970776034f77a070d99423d68791.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/cc/cc1b50b5501f748da8bec762294d9136" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/cc/cc1b50b5501f748da8bec762294d9136.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d0/d05b96cee66e14240838de167097537a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d0/d05b96cee66e14240838de167097537a.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d0/d0b700c79c06a4e489ea7044bd10662a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d0/d0b700c79c06a4e489ea7044bd10662a.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d1/d1c1a2d988f5148fd9ab17b2460d271e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d1/d1c1a2d988f5148fd9ab17b2460d271e.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d4/d42776cd1ea2bc441b66bbf83afed5d5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d4/d42776cd1ea2bc441b66bbf83afed5d5.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d6/d6453cde8ea4ef741983575f5bfd6b27" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d6/d6453cde8ea4ef741983575f5bfd6b27.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d9/d929147d9f78c487397abb40f2c257b0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/d9/d929147d9f78c487397abb40f2c257b0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/e1/e1007cd261c84053beb0c3537782908d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/e1/e1007cd261c84053beb0c3537782908d.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/f0/f0f8d67297461495185169157c24c66b" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/f0/f0f8d67297461495185169157c24c66b.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/f7/f70555f144d8491a825f0804e09c671c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/f7/f70555f144d8491a825f0804e09c671c.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/fe/fec197bad419341558f81f2ec8a05e18" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/Library/metadata/fe/fec197bad419341558f81f2ec8a05e18.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/ProjectSettings/AudioManager.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/ProjectSettings/ClusterInputManager.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/ProjectSettings/DynamicsManager.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/ProjectSettings/EditorBuildSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/ProjectSettings/EditorSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/ProjectSettings/GraphicsSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/ProjectSettings/InputManager.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/ProjectSettings/NavMeshAreas.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/ProjectSettings/NetworkManager.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/ProjectSettings/Physics2DSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/ProjectSettings/ProjectSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/ProjectSettings/ProjectVersion.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/ProjectSettings/QualitySettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/ProjectSettings/TagManager.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/ProjectSettings/TimeManager.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/ProjectSettings/UnityConnectSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Animaciones/UnityPackageManager/manifest.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/AnnotationManager" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/AssetImportState" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/BuildPlayer.prefs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/BuildSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/CurrentLayout.dwlt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/EditorUserBuildSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/EditorUserSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/GridBrush/UnityEditor.GridBrush.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/InspectorExpandedItems.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/LastSceneManagerSetup.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/LibraryFormatVersion.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/MonoManager.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/ProjectSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/ScriptAssemblies/BuiltinAssemblies.stamp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/ScriptMapper" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/ShaderCache/1/13edb108859dbc036c99afe589a8fa6a.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/ShaderCache/1/18accdbc520e5b74d0ad2c1037362c58.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/ShaderCache/4/40bafcd6bc0e79d89bb6754e44ad73de.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/ShaderCache/4/4fc91df2a1602a156ee470de8b4f0038.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/ShaderCache/9/98ff7e5bfe8e1e59eb7a040b0120aae0.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/ShaderCache/d/d1c3c29b12ae15d8e5994a05c7465e52.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/ShaderCache/e/ea6e59e57af3c11ee4e3e21e40f8ab7c.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/ShaderCache/f/ffc386ad42bcfecefadc02aa6c8aa370.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/SpriteAtlasDatabase.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/TilemapEditorUserSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/assetDatabase3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/expandedItems" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000001000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000001000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000002000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000002000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000003000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000003000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000004000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000004000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000004100000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000004100000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000005000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000005000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000005100000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000005100000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000006000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000006000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000006100000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000006100000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000007000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000007000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000007100000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000007100000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000008000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000008000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000009000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/00000000000000009000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/0000000000000000a000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/0000000000000000a000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/0000000000000000a100000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/0000000000000000a100000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/0000000000000000b000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/0000000000000000b000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/0000000000000000c000000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/0000000000000000c000000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/0000000000000000e100000000000000" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/00/0000000000000000e100000000000000.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/0d/0d3bb855445e36e479c85976fc88383a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/0d/0d3bb855445e36e479c85976fc88383a.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/10/10bf81265ad87424d946598c575f45a0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/10/10bf81265ad87424d946598c575f45a0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/13/1322fd896bbb15bb6e335591b766ae62" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/13/1322fd896bbb15bb6e335591b766ae62.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/15/15be9c691b85a41a39c18bee2f87e21b" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/15/15be9c691b85a41a39c18bee2f87e21b.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/22/220224b43fc464c28bc0e8de8f54a432" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/22/220224b43fc464c28bc0e8de8f54a432.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/26/2682a692a2be7e14e901a738c7806da0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/26/2682a692a2be7e14e901a738c7806da0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/2e/2eb2d0388ed974b3cba47458803bd275" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/2e/2eb2d0388ed974b3cba47458803bd275.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/30/30aa2886e2b748d48fbe4b155c65025f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/30/30aa2886e2b748d48fbe4b155c65025f.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/32/32188fd89022c154c81befa2f0e00be0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/32/32188fd89022c154c81befa2f0e00be0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/40/405b9b51bb344a128608d968297df79c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/40/405b9b51bb344a128608d968297df79c.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/41/4113173d5e95493ab8765d7b08371de4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/41/4113173d5e95493ab8765d7b08371de4.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/45/453f100e6bdae4dfd9e655927819dc85" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/45/453f100e6bdae4dfd9e655927819dc85.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/49/49f5766d0d4954f44b85d4bbd7131677" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/49/49f5766d0d4954f44b85d4bbd7131677.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/4c/4c6fe94acbb24417c988bab18cbd5209" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/4c/4c6fe94acbb24417c988bab18cbd5209.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/4f/4f234578336894dc081edf696f2ff5f2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/4f/4f234578336894dc081edf696f2ff5f2.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/51/510d1d319d2754ea4a47c6dd8c421ea0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/51/510d1d319d2754ea4a47c6dd8c421ea0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/51/517af1b5b81b93b43b9745d58f017562" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/51/517af1b5b81b93b43b9745d58f017562.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/65/6597c6ea86d36477081342001145d8d9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/65/6597c6ea86d36477081342001145d8d9.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/65/65d58d50c3db54f979b1ffae3777d74b" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/65/65d58d50c3db54f979b1ffae3777d74b.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/69/6981461fe431401459211818212a29cf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/69/6981461fe431401459211818212a29cf.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/75/75799de484ac4f4cadc268d2cbea830a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/75/75799de484ac4f4cadc268d2cbea830a.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/76/7668179ede524d6396c8b7d84461ea29" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/7c/7c3a5d6e39b874f468b2691537168513" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/7c/7c3a5d6e39b874f468b2691537168513.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/7c/7c7a65e2e74177243bbef7355beba2f2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/7c/7c7a65e2e74177243bbef7355beba2f2.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/84/844f815391db42d49455cbf1a7bfc434" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/84/844f815391db42d49455cbf1a7bfc434.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/84/84ca94c19f25ae14d83aa41bb3654390" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/84/84ca94c19f25ae14d83aa41bb3654390.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/86/86c008322e7c647149878156c5b81940" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/86/86c008322e7c647149878156c5b81940.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/86/86c18994495874297b469aaa57ef9b44" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/86/86c18994495874297b469aaa57ef9b44.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/8b/8b0c7e7dfb791274098f06a321c99f33" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/8b/8b0c7e7dfb791274098f06a321c99f33.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/90/9078b7128e594410d9b89e5b24cffd01" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/90/9078b7128e594410d9b89e5b24cffd01.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/99/99ddb49592ff84811804420a1910cb89" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/99/99ddb49592ff84811804420a1910cb89.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/a3/a342381d77833427fa10621e38fbae10" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/a3/a342381d77833427fa10621e38fbae10.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/a3/a37e18887fa954edf92bc36bc353b879" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/a3/a37e18887fa954edf92bc36bc353b879.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/b3/b32abd1c9d73a4cce8389f084ac12b11" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/b3/b32abd1c9d73a4cce8389f084ac12b11.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/b5/b5da970776034f77a070d99423d68791" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/b5/b5da970776034f77a070d99423d68791.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/cc/cc1b50b5501f748da8bec762294d9136" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/cc/cc1b50b5501f748da8bec762294d9136.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/d0/d05b96cee66e14240838de167097537a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/d0/d05b96cee66e14240838de167097537a.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/d1/d1c1a2d988f5148fd9ab17b2460d271e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/d1/d1c1a2d988f5148fd9ab17b2460d271e.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/d7/d75ca8a5077ad6743bbbc20d578d61ad" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/d7/d75ca8a5077ad6743bbbc20d578d61ad.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/d9/d929147d9f78c487397abb40f2c257b0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/d9/d929147d9f78c487397abb40f2c257b0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/e1/e1007cd261c84053beb0c3537782908d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/e1/e1007cd261c84053beb0c3537782908d.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/f0/f0f8d67297461495185169157c24c66b" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/f0/f0f8d67297461495185169157c24c66b.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/f7/f70555f144d8491a825f0804e09c671c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/f7/f70555f144d8491a825f0804e09c671c.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/fe/fec197bad419341558f81f2ec8a05e18" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/Library/metadata/fe/fec197bad419341558f81f2ec8a05e18.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/ProjectSettings/AudioManager.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/ProjectSettings/ClusterInputManager.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/ProjectSettings/DynamicsManager.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/ProjectSettings/EditorBuildSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/ProjectSettings/EditorSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/ProjectSettings/GraphicsSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/ProjectSettings/InputManager.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/ProjectSettings/NavMeshAreas.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/ProjectSettings/NetworkManager.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/ProjectSettings/Physics2DSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/ProjectSettings/ProjectSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/ProjectSettings/ProjectVersion.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/ProjectSettings/QualitySettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/ProjectSettings/TagManager.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/ProjectSettings/TimeManager.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/ProjectSettings/UnityConnectSettings.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Pinball3D/UnityPackageManager/manifest.json" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BallSpawner.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/BallSpawner.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <marker date="1518422225519" expanded="false" signature="6:113" ph="..." />
+                <marker date="1518422225519" expanded="true" signature="155:789" ph="{...}" />
+                <marker date="1518422225519" expanded="true" signature="273:368" ph="/* Variable para controlar si ha finalizado la puntuación o no. ... */" />
+                <marker date="1518422225519" expanded="true" signature="384:445" ph="{...}" />
+                <marker date="1518422225519" expanded="true" signature="500:717" ph="{...}" />
+                <marker date="1518422225519" expanded="true" signature="567:638" ph="{...}" />
+                <marker date="1518422225519" expanded="true" signature="669:713" ph="{...}" />
+                <marker date="1518422225519" expanded="true" signature="739:785" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SumScore.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SumScore.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <marker date="1518367054080" expanded="false" signature="6:78" ph="..." />
+                <marker date="1518367054080" expanded="true" signature="118:944" ph="{...}" />
+                <marker date="1518367054080" expanded="true" signature="223:310" ph="{...}" />
+                <marker date="1518367054080" expanded="true" signature="365:372" ph="{...}" />
+                <marker date="1518367054080" expanded="true" signature="426:662" ph="{...}" />
+                <marker date="1518367054080" expanded="true" signature="508:651" ph="{...}" />
+                <marker date="1518367054080" expanded="true" signature="714:942" ph="{...}" />
+                <marker date="1518367054080" expanded="true" signature="763:939" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SumScore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LostLive.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayingInterface.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlungerScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlipperScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/SumScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ArchScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ThrowScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BallSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FinalScript.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Pinball (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Pinball (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Pinball (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Pinball (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc723e57-5961-4938-b1a8-2b02331a2ef6" name="Default" comment="" />
+      <created>1518366399342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518366399342</updated>
+      <workItem from="1518366427056" duration="4718000" />
+      <workItem from="1518421428482" duration="2277000" />
+      <workItem from="1518425048147" duration="133000" />
+      <workItem from="1518425346821" duration="1012000" />
+    </task>
+    <task id="LOCAL-00001" summary="Pantalla de Inicio y final">
+      <created>1518424044739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1518424044739</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Pantalla de Inicio y final">
+      <created>1518426170156</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1518426170156</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8140000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17436662" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16764276" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31445605" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="Pantalla de Inicio y final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pantalla de Inicio y final" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BallSpawner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1518422225519" expanded="false" signature="6:113" ph="..." />
+            <marker date="1518422225519" expanded="true" signature="155:789" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="273:368" ph="/* Variable para controlar si ha finalizado la puntuación o no. ... */" />
+            <marker date="1518422225519" expanded="true" signature="384:445" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="500:717" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="567:638" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="669:713" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="739:785" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BallSpawner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1518422225519" expanded="false" signature="6:113" ph="..." />
+            <marker date="1518422225519" expanded="true" signature="155:789" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="273:368" ph="/* Variable para controlar si ha finalizado la puntuación o no. ... */" />
+            <marker date="1518422225519" expanded="true" signature="384:445" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="500:717" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="567:638" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="669:713" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="739:785" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ArchScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SumScore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ThrowScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayingInterface.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LostLive.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FlipperScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlungerScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BallSpawner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <marker date="1518422225519" expanded="false" signature="6:113" ph="..." />
+            <marker date="1518422225519" expanded="true" signature="155:789" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="273:368" ph="/* Variable para controlar si ha finalizado la puntuación o no. ... */" />
+            <marker date="1518422225519" expanded="true" signature="384:445" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="500:717" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="567:638" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="669:713" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="739:785" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ArchScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlungerScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ThrowScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LostLive.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FlipperScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FinalScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayingInterface.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BallSpawner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <marker date="1518422225519" expanded="false" signature="6:113" ph="..." />
+            <marker date="1518422225519" expanded="true" signature="155:789" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="273:368" ph="/* Variable para controlar si ha finalizado la puntuación o no. ... */" />
+            <marker date="1518422225519" expanded="true" signature="384:445" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="500:717" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="567:638" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="669:713" ph="{...}" />
+            <marker date="1518422225519" expanded="true" signature="739:785" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StartGame.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SumScore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1518367054080" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518367054080" expanded="true" signature="118:944" ph="{...}" />
+            <marker date="1518367054080" expanded="true" signature="223:310" ph="{...}" />
+            <marker date="1518367054080" expanded="true" signature="365:372" ph="{...}" />
+            <marker date="1518367054080" expanded="true" signature="426:662" ph="{...}" />
+            <marker date="1518367054080" expanded="true" signature="508:651" ph="{...}" />
+            <marker date="1518367054080" expanded="true" signature="714:942" ph="{...}" />
+            <marker date="1518367054080" expanded="true" signature="763:939" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
